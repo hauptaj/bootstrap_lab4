@@ -1,0 +1,54 @@
+body { padding-bottom: 70px; }
+
+.jumbotron {
+	background-color: black;
+	color: white;
+}
+
+.jumbotron p {
+	color: LightCyan;
+}
+
+.post {
+	color: grey;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    color: #fff;
+    background-color: Red;}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+article img {
+	width: 350.4px;
+	height: 233.6px;
+	margin: 0 10px 0px 0;
+}
+
+.text-center {
+	padding-top: 16px;
+}
+
+.navbar-default {
+	background-color: black;
+	color: LightCyan;
+}
+
+.glyphicon {
+	color: red;
+}
+
+.glyphicon:hover {
+	color: grey;
+}
+
+.navbar-default a {
+	color: LightCyan;
+}
+
+a:hover {
+	color: red;
+}
